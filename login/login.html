@@ -1,0 +1,57 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>SE - Login</title>
+  <link rel="stylesheet" type="text/css" href="assets/css/login_style.css">
+  <script src="assets/js/jquery-1.12.1.min.js" charset="utf-8"></script>
+</head>
+
+<body>
+  <script src="assets/js/jquery.js"></script>
+  <script src="assets/js/typed.js"></script>
+  <script>
+  $(function(){
+      $(".topWrite").typed({
+        strings: ["Academic System Information Management"],
+        typeSpeed: 0
+      });
+  });
+</script>
+
+<div class="topWrite" style="font-weight: bold;"></div>
+
+
+<div class="form">
+  <form action="" class="login-form" name="login-form" method="post">
+      <input type="text" name="username" placeholder="username"/>
+      <input type="password" name="password" placeholder="parola"/>
+      <button name="login" id="btn-login">login</button>
+      <p class="message">Ți-ai uitat parola? Recupereaz-o
+      <a href="recover_pass.html">aici.</a></p>
+  </form>
+</div>
+
+<div id="nav">
+    <ul class="top-level">
+        <li><span style="font-weight: bold;">Echipa</span>
+            <ul class="sub-level">
+                <li><span>Brata George</span></li>
+                <li><span>Toma Alex</span></li>
+                <li><span>Burnete Alexandra</span></li>
+                <li><span>Bojan Andrada</span></li>
+                <li><span>Baias David</span></li>
+                <li><span>Bodron Valentina</span></li>
+                <li><span>Istovan Horatiu</span></li>
+                <li><span>Benchea Vlad</span></li>
+            </ul>
+        </li>
+      </ul>
+</div>
+
+
+<script type="text/javascript" src="assets/js/login.js"></script>
+</body>
+</html>

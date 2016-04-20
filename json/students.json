@@ -1,0 +1,7 @@
+{"students":[
+    {"id":"1", "name":"Ioan Dan", "group":"1", "preferences":[], "contract":"1", "eval":"1"},
+    {"id":"2", "name":"Gigel Gile", "group":"2", "preferences":[], "contract":"2", "eval":"2"},
+    {"id":"3", "name":"Maria Maria", "group":"3", "preferences":[], "contract":"3", "eval":"3"},
+    {"id":"4", "name":"Ion Ion", "group":"1", "preferences":[], "contract":"4", "eval":"4"},
+    {"id":"5", "name":"Florin Flori", "group":"2", "preferences":[], "contract":"5", "eval":"5"}
+]}

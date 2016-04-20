@@ -1,0 +1,7 @@
+"contracts":[
+    {"id":"1", "disciplines":["id":1, "id":2, "id":3, "id":4]}, 
+    {"id":"2", "disciplines":["id":1, "id":2, "id":3, "id":4, "id":"5"]},
+    {"id":"3", "disciplines":["id":2, "id":3, "id":4]},
+    {"id":"4", "disciplines":["id":4]},
+    {"id":"5", "disciplines":[]}
+]

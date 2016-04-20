@@ -1,0 +1,7 @@
+"staffmembers":[
+    {"id":"1", "name":"Anna Doe", "username":"anna", "password":"anna", "faculty":"Mate-Info"}, 
+    {"id":"2", "name":"Sam Smith", "username":"sam", "password":"sam", "faculty":"Mate-Info"}, 
+    {"id":"3", "name":"George Smith", "username":"george", "password":"george", "faculty":"Litere"},
+    {"id":"4", "name":"Sara Gray", "username":"sara", "password":"sara", "faculty":"Litere"}, 	
+    {"id":"5", "name":"Mary Jones", "username":"mary","password":"mary", "faculty":"Medicina"}
+]

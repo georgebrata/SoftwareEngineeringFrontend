@@ -1,0 +1,7 @@
+"teachers":[
+    {"id":"1", "name":"Anna", "subject":"Algebra","department":"1", "activities":["id":"1","id":"2"], "proposed":["id":"1","id":"2"]}, 
+    {"id":"2", "name":"Maria", "subject":"Inteligenta artificiala","department":"2", "activities":["id":"1"], "proposed":[]}, 
+    {"id":"3", "name":"Ion", "subject":"Baze de date","department":"2", "activities":["id":"1","id":"2", "id":"3"], "proposed":["id":"3","id":"4", "id":"5"]}, 
+    {"id":"4", "name":"Sebastian", "subject":"Analiza","department":"1", "activities":["id":"2"], "proposed":["id":"6"]}, 
+    {"id":"5", "name":"Florin", "subject":"OOP","department":"2", "activities":["id":"3"], "proposed":["id":"6"]} 
+]

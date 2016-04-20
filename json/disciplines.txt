@@ -1,0 +1,7 @@
+"disciplines":[
+    {"id":"1", "name":"Algebra", "credits":"3", "semester":"1", "evals":["id":"1","id":"2"], "activities":["id":"1","id":"2"]}, 
+    {"id":"2", "name":"Analiza", "credits":"2", "semester":"2", "evals":["id":"1","id":"2", "id":"3"], "activities":["id":"1","id":"2","id":"3"]}, 
+    {"id":"3", "name":"Inteligenta artificiala", "credits":"3", "semester":"3", "evals":["id":"1"], "activities":["id":"1","id":"2"]}, 
+    {"id":"4", "name":"Baze de date", "credits":"4", "semester":"3", "evals":[], "activities":["id":"1","id":"2"]}, 
+    {"id":"5", "name":"OOP", "credits":"2", "semester":"4", "evals":["id":"1","id":"2","id":"3"], "activities":["id":"1","id":"3"]}
+]
